@@ -6,10 +6,10 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  PowerBI (Power Query, DAX ) <br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Python (Pandas,Numpy, Matplotlib , Seaborn , Scikit-Learn) <br>
 
-
+- 📄 Know about my experiences [Resume Link edit](Resume Link edit)
 - 📫 How to reach me **anirudhrana009@gmail.com**
 
-- 📄 Know about my experiences [Resume Link edit](Resume Link edit)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
