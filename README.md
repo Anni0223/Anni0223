@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh Rana</h1>
 <h3 align="center">A passionate data analyst- Unleashing Insights, One byte at a Time</h3>
 
-- Skills : Excel (Lookups, Pivot Tables , Power Query , Dashboards)
+- Skills : Excel (Lookups, Pivot Tables , Power Query , Dashboards) <br>
             SQL 
 
 - 📫 How to reach me **anirudhrana009@gmail.com**
